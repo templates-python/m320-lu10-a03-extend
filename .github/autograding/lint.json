@@ -1,5 +1,5 @@
 {
-  "files": ["main.py"],
+  "files": ["mobile.py", "phone.py", "smartphone.py"],
   "ignore" : [],
-  "max": 20
+  "max": 5
 }

@@ -4,5 +4,41 @@
     "function": "test",
     "timeout": 10,
     "points": 1
+  },
+  {
+    "name": "test_what_i_am_mobile",
+    "function": "test_what_i_am_mobile",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_function_mobile",
+    "function": "test_function_mobile",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_what_i_am_phone",
+    "function": "test_what_i_am_phone",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_function_phone",
+    "function": "test_function_phone",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_what_i_am_smartphone",
+    "function": "test_what_i_am_smartphone",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_function_smartphone",
+    "function": "test_function_smartphone",
+    "timeout": 10,
+    "points": 1
   }
 ]
