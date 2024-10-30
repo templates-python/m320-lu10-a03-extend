@@ -8,7 +8,7 @@ class TestPhone:
         return Phone()
 
     def test_what_i_am_phone(self, a_phone):
-        assert a_phone.what_i_am() == 'a simply phone'
+        assert a_phone.what_i_am() == 'a simple phone'
 
     def test_function_phone(self, a_phone, capsys):
         a_phone.calling()
