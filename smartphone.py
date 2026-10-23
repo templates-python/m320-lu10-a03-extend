@@ -3,7 +3,7 @@ from mobile import Mobile
 class SmartPhone(Mobile):
 
     def __init__(self):
-        pass
+        super().__init__()
 
     def use_internet(self):
         print('das Internet benutzen')

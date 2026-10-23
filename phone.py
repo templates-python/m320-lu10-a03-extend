@@ -1,6 +1,6 @@
 class Phone:
     def __init__(self):
-        pass
+        self._phonenumber = '+41 789 56 43'
 
     def calling(self):
         print('anrufen')

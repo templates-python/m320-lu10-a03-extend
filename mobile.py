@@ -3,7 +3,7 @@ from phone import Phone
 class Mobile(Phone):
 
     def __init__(self):
-        pass
+        super().__init__()
 
     def handle_sms(self):
         print('sms senden und empfangen')
